@@ -2,7 +2,7 @@
 ### Repository consists of:
 
 <ol>
-  <li><b>Linear and Binary search Algorithm for</b></li>
+  <li><b>Linear and Binary search Algorithms for</b></li>
       <ul>
       <li>Lists</li>
       <li>Tuples</li>
